@@ -27,6 +27,8 @@
   
   
   <a href="https://to-do-app-react-01.vercel.app/" target="_blank">**Live Demo** 🚀</a>
+  <br />
+  <br />
   <img src="./public/assets/taskApp.png" alt="CRUD API" width="800">
 
 <br/>
