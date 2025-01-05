@@ -26,7 +26,7 @@
   ## CRUD APP - REACT JS
   
   
-  <!-- <a href="" target="_blank">**Live Demo** 🚀</a> -->
+  <a href="https://to-do-app-react-01.vercel.app/" target="_blank">**Live Demo** 🚀</a>
   <img src="./public/assets/taskApp.png" alt="CRUD API" width="800">
 
 <br/>
